@@ -1,0 +1,15 @@
+{
+  "name": "production",
+  "version": "1.0.0",
+  "description": "It calculates sales value total and each",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "MG",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
